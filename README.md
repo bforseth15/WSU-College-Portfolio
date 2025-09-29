@@ -1,4 +1,3 @@
-# WSU-College-Portfolio
 # WSU College Portfolio
 
 Welcome! This repository serves as my personal portfolio for Washington State University, showcasing my academic projects, technical skills, and professional development. Browse through my work to see what I’ve accomplished and explored during my college journey.
@@ -17,7 +16,7 @@ This repository contains a variety of projects organized by topic. Each project 
 
 | Project Area               | Example Projects          | Relevant Skills       |
 |----------------------------|-----------------------------------------|------------------------|
-| Business Intelligence      |   [Project Name 1](./Web_Apps/Project1) | SQL, Word |
+| Business Intelligence      |    | SQL, Word |
 | Intermediate Accounting    | [Analysis Project](./Data_Science/Analysis1) | Financial Statements, 10-k analysis |
 | Intermediate Financial MGMT| [Robot Build](./Robotics/RobotProject) |           |
 | IT Infrastructure          | [Course Project](./Coursework/CourseProject) | Java, SQL              |
