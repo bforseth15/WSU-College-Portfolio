@@ -16,7 +16,7 @@ This repository contains a variety of projects organized by topic. Each project 
 
 | Project Area               | Example Projects          | Relevant Skills       |
 |----------------------------|-----------------------------------------|------------------------|
-| Business Intelligence      |    | SQL, Word |
+| Business Intelligence      |  .[MIS 420 Course]  | SQL, Word |
 | Intermediate Accounting    | [Analysis Project](./Data_Science/Analysis1) | Financial Statements, 10-k analysis |
 | Intermediate Financial MGMT| [Robot Build](./Robotics/RobotProject) |           |
 | IT Infrastructure          | [Course Project](./Coursework/CourseProject) | Java, SQL              |
