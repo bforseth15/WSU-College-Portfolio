@@ -8,7 +8,7 @@ Welcome! This repository serves as my personal portfolio for Washington State Un
 
 I am a passionate recent graduate from Washington State University. I double majored in Finance and Management Information Systems (MIS). My interests include financial analysis and data analysis, and I enjoy building practical solutions to real-world problems.
 
----https://github.com/bforseth15/WSU-College-Portfolio/blob/main/Homework%205%20MIS%20420.docx 
+---
 
 
 ## 📂 Portfolio Overview
