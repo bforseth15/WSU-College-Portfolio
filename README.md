@@ -15,12 +15,12 @@ I am a passionate recent graduate from Washington State University. I double maj
 
 This repository contains a variety of projects organized by topic. Each project folder includes a dedicated README describing its purpose, technology stack, and my contributions.
 
-| Project Area               | Example Projects          | Relevant Skills       |
+| Project Area               | Example Projects         | Relevant Skills       |
 |----------------------------|-----------------------------------------|------------------------|
-| Business Intelligence      |  Homework SQL Queries    | SQL, Word, Reporting |
-| Intermediate Accounting    | Accounting Final Project |Financial Statement Analysis, Journal Entries, 10-k, Reporting |
-| Intermediate Financial MGMT| Finance Final Project    | DCF analysis, Company Analysis, Financial Statements, Reporting          |
-| IT Infrastructure          | [Course Project](./Coursework/CourseProject) |              |
+| Business Intelligence      | Homework SQL Queries      | SQL (arrays, joins, sub queries), Word, Reporting               |
+| Intermediate Accounting    | Accounting Final Project  | Financial Statement Analysis, Journal Entries, 10-k, Reporting  |
+| Intermediate Financial MGMT| Finance Final Project     | DCF analysis, Company Analysis, Financial Statements, Reporting |
+| Financial Modeling         | Fincial Modeling Portfolio| Financial Planning App, Monte Carlo Simulation, DCF analysis    |
 
 ---
 
