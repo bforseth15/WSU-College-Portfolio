@@ -17,10 +17,10 @@ This repository contains a variety of projects organized by topic. Each project 
 
 | Project Area               | Example Projects          | Relevant Skills       |
 |----------------------------|-----------------------------------------|------------------------|
-| Business Intelligence      |  .[MIS 420 Course]  | SQL, Word |
-| Intermediate Accounting    | [Analysis Project](./Data_Science/Analysis1) | Financial Statements, 10-k analysis |
-| Intermediate Financial MGMT| [Robot Build](./Robotics/RobotProject) |           |
-| IT Infrastructure          | [Course Project](./Coursework/CourseProject) | Java, SQL              |
+| Business Intelligence      |  Homework SQL Queries    | SQL, Word, Reporting |
+| Intermediate Accounting    | Accounting Final Project |Financial Statement Analysis, Journal Entries, 10-k, Reporting |
+| Intermediate Financial MGMT| Finance Final Project    | DCF analysis, Company Analysis, Financial Statements, Reporting          |
+| IT Infrastructure          | [Course Project](./Coursework/CourseProject) |              |
 
 ---
 
@@ -50,7 +50,7 @@ Below are highlights from my portfolio. For a full list, explore the folders in 
 
 ---
 
-## 🛠 Skills
+##  Skills
 
 •	Data Analysis: Excel, Financial Statements, Python, Power BI, SQL, DAX, VS Code, Microsoft Dynamics AX 
 •	Communication: Team Collaboration, Supplier Communication, Documentation & Reporting, Word, PowerPoint
@@ -58,9 +58,9 @@ Below are highlights from my portfolio. For a full list, explore the folders in 
 
 ---
 
-## 🏆 Certifications & Awards
+## Awards
 
-- Presidental Honor Roll, [Year]
+- Presidental Honor Roll, Every Semester Fall 2021 - Spring 2025
 
 
 ---
@@ -69,7 +69,6 @@ Below are highlights from my portfolio. For a full list, explore the folders in 
 
 - Email: bforseth15@gmail.com
 - LinkedIn: [Your LinkedIn URL]
-- Portfolio Website: [Your Website URL, if any]
 
 ---
 
